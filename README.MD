@@ -6,10 +6,10 @@ In this project the goal was to take 2 images of the same object from different 
 MATLAB
 
 ## Data
-![Image 1](data/im1.png)
-![Image 2](data/im2.png)
+![Image 1](data/im1.png | width=250)
+![Image 2](data/im2.png | width=250)
 
 ## Results
-![8 point](Results/3.1.1 Eight Point Result.png)
+![8 point](Results/'3.1.1 Eight Point Result.png')
 
 
